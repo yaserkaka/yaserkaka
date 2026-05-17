@@ -1,17 +1,17 @@
-<h1 align="center">Hi there, I'm Yasser Fawzy Mohamed 👋</h1>h1>
+<h1 align="center">Hi there, I'm Yasser Fawzy Mohamed 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | .NET & Python | Alexandria, Egypt</b>b>
-</p>p>
+  <b>Full-Stack Developer | .NET & Python | Alexandria, Egypt</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasser-fawzy" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>a>
+  </a>
     <a href="mailto:yaserkaka@github.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>a>
-</p>p>
+    </a>
+</p>
 
 ---
 
@@ -20,11 +20,11 @@
 I'm a software developer based in Alexandria, Egypt, working at **Andalusia Business Solutions**. I enjoy building practical web applications that solve real-world problems — from healthcare management systems to blood bank platforms.
 
 - 🔭 Currently working on **B-Bank-System** — a Flask app for managing blood bank operations
-- - 🌱 Exploring **ASP.NET Core**, **DDD**, **CQRS**, and modern backend patterns
-  - - 💬 Ask me about **C#**, **Python**, **Flask**, **ASP.NET**, or **JavaScript**
-    - - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yasser-fawzy)
+- 🌱 Exploring **ASP.NET Core**, **DDD**, **CQRS**, and modern backend patterns
+  - 💬 Ask me about **C#**, **Python**, **Flask**, **ASP.NET**, or **JavaScript**
+    - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yasser-fawzy)
      
-      - ---
+      ---
 
       ## 🛠️ Tech Stack
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yasser Fawzy👋</h1>
+<h1 align="center">Hi there, I'm Yasser Fawzy Mohamed 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;.NET+%7C+Python+%7C+Flask;Building+Real-World+Solutions" alt="Typing SVG" />

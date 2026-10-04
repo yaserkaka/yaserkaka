@@ -1,119 +1,96 @@
-<h1 align="center">Hi there, I'm Yasser Fawzy Mohamed 👋</h1>
+<h1 align="center">Hi, I'm Yasser Metwally 👋</h1>
+<h3 align="center">DevOps & SysOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;.NET+%7C+Python+%7C+Flask;Building+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0084D8&center=true&vCenter=true&width=600&lines=DevOps+%26+SysOps+Engineer;Linux+%C2%B7+VMware+%C2%B7+Kubernetes;Automate+everything+with+Ansible+%26+CI%2FCD;Monitor+%C2%B7+Back+up+%C2%B7+Recover" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>System Engineer</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasser-fawzy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yaserkaka@github.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yaserkaka&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/yasser-fawzy"><img src="https://img.shields.io/badge/LinkedIn-yasser--fawzy-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yasser.metwallykaka@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt-555?style=flat&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://komarev.com/ghpvc/?username=yaserkaka&style=flat&color=0e75b6&label=Profile+views" alt="Profile views">
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a software developer based in **Alexandria, Egypt**, working at **Andalusia Business Solutions**. I enjoy building practical web applications that solve real-world problems — from healthcare management systems to blood bank platforms.
+DevOps & SysOps Engineer at **Andalusia Health and Business Solutions**. I keep hybrid Linux and Windows infrastructure on VMware vSphere running, automate the repetitive work with **Ansible, Bash, and Python**, and ship services through **CI/CD pipelines** into containers and Kubernetes.
 
-- 🔭 Currently working on **B-Bank-System** — a Flask app for managing blood bank operations
-- 🌱 Exploring **ASP.NET Core**, **DDD**, **CQRS**, and modern backend patterns
-- 💬 Ask me about **C#**, **Python**, **Flask**, **ASP.NET**, or **JavaScript**
-- 💫 Reach me on [LinkedIn](https://www.linkedin.com/in/yasser-fawzy)
-- ⚡ Fun fact: I love turning complex problems into elegant, scalable solutions
+My focus: reliable infrastructure, automation over manual work, clear monitoring, and fast root cause analysis to cut MTTR.
+
+---
+
+## ⚙️ What I Do
+
+- 🖥️ **SysOps:** Run production RHEL and Ubuntu servers across 3 ESXi hosts (24 VMs) at 99.9% availability: LVM storage, kernel updates, patching, and security hardening
+- 🤖 **Automation:** Ansible playbooks and Bash/Python scripts for provisioning, health checks, and scheduled patching, with no manual per-host drift
+- 🧱 **Golden images:** Automated OS images (Packer, Sysprep, DISM) that cut new VM provisioning time by 60%+
+- 🚀 **CI/CD & containers:** Docker images and Azure DevOps / GitHub Actions pipelines (repos, artifact registries, build agents) with zero-downtime rolling updates
+- ☸️ **Kubernetes:** Helm deployments, NGINX ingress, TLS, autoscaling, ConfigMaps/Secrets, ClusterIP/NodePort, CoreDNS
+- 📈 **Observability:** Prometheus, Grafana, and New Relic dashboards and alerts for saturation, latency, and availability
+- 💾 **Backup & DR:** Veeam backup jobs, restore testing, and disaster recovery
+- 🌐 **Networking & security:** DNS, DHCP, VLANs, FortiGate firewall rules, site-to-site and client VPNs
+- 🔍 **Incident response:** Root cause analysis across OS, network, and port-level faults
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Linux & OS**<br>
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Automation & IaC**<br>
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat&logo=packer&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+**Containers & orchestration**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+**CI/CD & cloud**<br>
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-### 🗄️ Databases & Tools
+**Virtualization**<br>
+![VMware](https://img.shields.io/badge/VMware%20vSphere%20%2F%20ESXi-607078?style=flat&logo=vmware&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?style=flat&logo=linux&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+**Monitoring**<br>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
 
-### 🏗️ Architecture & Patterns
-
-<p>
-  <img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CQRS-Pattern-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-Design-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-Pattern-purple?style=for-the-badge" />
-</p>
+**Networking, security & backup**<br>
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat&logo=fortinet&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP%2FIP%20·%20DNS%20·%20DHCP%20·%20VLANs%20·%20VPN%20·%20TLS-444?style=flat)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🩸 B-Bank-System](https://github.com/yaserkaka/B-Bank-System) | Blood bank management — donors, inventory, donations & live dashboard | Python, Flask, MySQL |
-| [🌤️ Weather-Forecasting](https://github.com/yaserkaka/Weather-Forecasting) | Real-time weather info and future forecasts for any location | Python |
-| [🏥 Asp.Net-app](https://github.com/yaserkaka/Asp.Net-app) | HealthWatch — a health monitoring web application | C#, ASP.NET |
-| [👔 EMS](https://github.com/yaserkaka/EMS) | Employee Management System — graduation project | C#, SQL Server |
+| Project | What it does | Stack |
+|---|---|---|
+| 🧱 [Server_Golden-Image](https://github.com/yaserkaka/Server_Golden-Image) | One Packer build produces a hardened Ubuntu 24.04 image; every KVM/vSphere clone boots as a unique server and configures itself for its role (HPC compute node, Kubernetes node). 3-layer verification (CI, offline, live) plus STREAM/OSU benchmarks. | Packer, Bash, Ubuntu, KVM, vSphere |
+| ☸️ Containerized Platform | Multi-service app on Kubernetes with Helm, NGINX ingress, TLS, and autoscaling; GitHub Actions pipeline with zero-downtime rolling updates; Prometheus/Grafana monitoring with alert rules. | Docker, Kubernetes, Helm, GitHub Actions, Prometheus, Grafana |
+| 🩺 [Linux-Server-Health-check](https://github.com/yaserkaka/Linux-Server-Health-check) | Scripted health checks for Linux servers. | Bash |
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications & Training
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaserkaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserkaka&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaserkaka&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaserkaka&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and star anything you find useful!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
+- Red Hat System Administration I (RH124)
+- IBM DevOps and Software Engineering (Coursera)
+- Introduction to High Performance Computing (Maharatech)
+- Certified Kubernetes Administrator (CKA), in preparation
+- AWS Solutions Architect – Associate, in training

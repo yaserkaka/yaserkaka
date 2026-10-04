@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer | .NET & Python | Alexandria, Egypt</b>
+  <b>System Engineer</b>
 </p>
 
 <p align="center">

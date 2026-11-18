@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yasser Metwally 👋</h1>
-<h3 align="center">DevOps & SysOps Engineer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0084D8&center=true&vCenter=true&width=600&lines=DevOps+%26+SysOps+Engineer;Linux+%C2%B7+VMware+%C2%B7+Kubernetes;Automate+everything+with+Ansible+%26+CI%2FCD;Monitor+%C2%B7+Back+up+%C2%B7+Recover" alt="Typing SVG" />
